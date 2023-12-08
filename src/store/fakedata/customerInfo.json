@@ -1,0 +1,9 @@
+{
+  "customerInfo": {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "address": "123 Main Street",
+    "city": "New York",
+    "zipcode": "10001"
+  }
+}
